@@ -1,0 +1,1 @@
+<div class="footer">iManage app <!-- Deliverd by http://www.ifreelance.asia team --></div>
