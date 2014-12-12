@@ -10,7 +10,7 @@ A little bit about how this app works: This application was created using a Mode
 
 Unfinished and future work: In the future, we could add the ability for any employee to create a project. As of right now, the application only allows managers the authorization to create projects. It could also be interesting to send notifications to employees when they are assigned to tasks by a manger. Another good feature to add would be the ability to message between users. This could prove useful for communication and coordination with coworkers.
 
-Github: Coming shortly 
+Github: https://github.com/NCSUWebClass/fall14-sas7
 
 Video: https://www.youtube.com/watch?v=4B3IllnPQhc
 
